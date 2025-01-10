@@ -23,7 +23,7 @@ This repository contains step-by-step instructions for configuring an EC2 instan
 - RDP client for connecting to the instance.
 
 ## How to Use This Guide
-1. Follow the steps in the provided document (`practical_1.docx`) to set up your EC2 instance.
+1. Follow the steps in the provided document (`EC2_Instance_Setup_Guide`) to set up your EC2 instance.
 2. Use the commands and configuration settings as specified.
 3. Terminate the instance when the session ends to avoid unnecessary charges.
 
